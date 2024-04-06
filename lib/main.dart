@@ -1,6 +1,5 @@
 // ignore: unused_import
 import 'package:api_connection/models/user_model.dart';
-import 'package:api_connection/provider.dart';
 import 'package:api_connection/services/userdata.dart';
 import 'package:api_connection/view/home.dart';
 import 'package:flutter/material.dart';
